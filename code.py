@@ -1,3 +1,5 @@
-from numpy import array, loadtxt, linspace, zeros
-x = zeros(1,1)
+from numpy import zeros
+
+x = zeros(1)
+
 print(x)
